@@ -12,6 +12,6 @@
     End Sub
 
     Private Sub EndButton_Click(sender As Object, e As EventArgs) Handles EndButton.Click
-        OutputLabel.Text = "End"
+        End
     End Sub
 End Class
